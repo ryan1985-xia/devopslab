@@ -4,5 +4,5 @@ export MYCLUSTER=
 export KUBECONFIG=
 
 export NAMESPACE=
-export EMAIL=
-export INGRESS=xiarz@cn.ibm.com
+export EMAIL=xiarz@cn.ibm.com
+export INGRESS=
